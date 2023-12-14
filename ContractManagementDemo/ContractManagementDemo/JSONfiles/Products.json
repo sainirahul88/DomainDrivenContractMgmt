@@ -1,0 +1,15 @@
+[
+  {
+    "id": "4251c22c-f3dc-410e-a611-ef6d95386e04",
+    "Elements": [
+      {
+        "t": "VolumeRisk",
+        "Fee": "-33.53 EUR/MWh"
+      },
+      {
+        "t": "CrossSubsidization",
+        "Price": null
+      }
+    ]
+  }
+]

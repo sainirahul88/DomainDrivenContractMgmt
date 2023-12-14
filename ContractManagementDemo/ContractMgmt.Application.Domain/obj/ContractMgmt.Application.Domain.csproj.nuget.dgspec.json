@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Domain\\ContractMgmt.Application.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Contracts.Infrastructure\\ContractMgmt.Application.Contract.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Contracts.Infrastructure\\ContractMgmt.Application.Contract.Infrastructure.csproj",
+        "projectName": "ContractMgmt.Application.Contract.Infrastructure",
+        "projectPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Contracts.Infrastructure\\ContractMgmt.Application.Contract.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sowjanya.janapati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Contracts.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sowjanya.janapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Domain\\ContractMgmt.Application.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Domain\\ContractMgmt.Application.Domain.csproj",
+        "projectName": "ContractMgmt.Application.Domain",
+        "projectPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Domain\\ContractMgmt.Application.Domain.csproj",
+        "packagesPath": "C:\\Users\\sowjanya.janapati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sowjanya.janapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Contracts.Infrastructure\\ContractMgmt.Application.Contract.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Contracts.Infrastructure\\ContractMgmt.Application.Contract.Infrastructure.csproj"
+              },
+              "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Model\\ContractMgmt.Application.Model.csproj": {
+                "projectPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Model\\ContractMgmt.Application.Model.csproj"
+              },
+              "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Products.Infrastructure\\ContractMgmt.Application.Product.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Products.Infrastructure\\ContractMgmt.Application.Product.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Model\\ContractMgmt.Application.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Model\\ContractMgmt.Application.Model.csproj",
+        "projectName": "ContractMgmt.Application.Model",
+        "projectPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Model\\ContractMgmt.Application.Model.csproj",
+        "packagesPath": "C:\\Users\\sowjanya.janapati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sowjanya.janapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Products.Infrastructure\\ContractMgmt.Application.Product.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Products.Infrastructure\\ContractMgmt.Application.Product.Infrastructure.csproj",
+        "projectName": "ContractMgmt.Application.Product.Infrastructure",
+        "projectPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Products.Infrastructure\\ContractMgmt.Application.Product.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sowjanya.janapati\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Products.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sowjanya.janapati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

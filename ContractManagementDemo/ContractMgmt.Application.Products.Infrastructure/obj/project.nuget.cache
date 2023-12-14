@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBYi5IRAcX4UDZ2RMiGjbjcIN7ZZlhVEJ8taz7GxzbhHFYrWNYICquNUEgQ3ti4g4VyBQMEGFvC2R7rMeGNtcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sowjanya.janapati\\source\\repos\\ContractManagementDemo\\ContractMgmt.Application.Products.Infrastructure\\ContractMgmt.Application.Product.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sowjanya.janapati\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

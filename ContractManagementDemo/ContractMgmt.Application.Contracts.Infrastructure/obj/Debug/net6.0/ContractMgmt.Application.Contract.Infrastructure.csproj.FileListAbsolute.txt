@@ -1,0 +1,12 @@
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\bin\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.deps.json
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\bin\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.dll
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\bin\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.pdb
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.AssemblyInfo.cs
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.dll
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\refint\ContractMgmt.Application.Contract.Infrastructure.dll
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ContractMgmt.Application.Contract.Infrastructure.pdb
+C:\Users\sowjanya.janapati\source\repos\ContractManagementDemo\ContractMgmt.Application.Contracts.Infrastructure\obj\Debug\net6.0\ref\ContractMgmt.Application.Contract.Infrastructure.dll
